@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "12kishor/sample-react-app"
+        IMAGE_NAME = "12kishor/test-image"
     }
 
     stages {
